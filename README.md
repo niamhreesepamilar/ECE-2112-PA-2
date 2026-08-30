@@ -235,3 +235,10 @@ This saves the resulting NumPy array into the file `above_mean.npy`.
 To view the complete Python program for Programming Assignment 2, open [ECE2112 - PA2](https://github.com/niamhreesepamilar/ECE-2112-PA-2/blob/main/ECE2112%20-%20PA2.ipynb). Open the file in Jupyter Notebook and select **Run All** to execute every cell.
 
 The notebook contains the complete solutions for Problems A, B, and C, including the required calculations, Boolean filtering, checks, and saving of the resulting NumPy arrays.
+
+The following `.npy` files are also included in the repository:
+- `X_normalized.npy` - contains the normalized array from Problem A.
+- `div_by_4.npy` - contains the cubed values divisible by 4 from Problem B.
+- `above_mean.npy` - contains the squared values greater than the mean from Problem C.
+
+Thank you for reading!
